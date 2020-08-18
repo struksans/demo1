@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode.App", "QRCode.App\QRCode.App.csproj", "{065B4F86-A59A-4446-B4AA-F9A3594624AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode.Service", "QRCode.Service\QRCode.Service.csproj", "{4EACEA3F-D89A-467A-A089-185CF49181FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode.BO", "QRCode.BO\QRCode.BO.csproj", "{E29DC3BC-6357-4EC5-AF19-35C9374029B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode.Bootstrap", "QRCode.Bootstrap\QRCode.Bootstrap.csproj", "{467D9712-F7AE-4DF4-9B56-6B25D755F920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode.Common", "QRCode.Common\QRCode.Common.csproj", "{CCFE8024-7782-4BD2-85E1-AA250D8DB3F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065B4F86-A59A-4446-B4AA-F9A3594624AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065B4F86-A59A-4446-B4AA-F9A3594624AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065B4F86-A59A-4446-B4AA-F9A3594624AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065B4F86-A59A-4446-B4AA-F9A3594624AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EACEA3F-D89A-467A-A089-185CF49181FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EACEA3F-D89A-467A-A089-185CF49181FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EACEA3F-D89A-467A-A089-185CF49181FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EACEA3F-D89A-467A-A089-185CF49181FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29DC3BC-6357-4EC5-AF19-35C9374029B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29DC3BC-6357-4EC5-AF19-35C9374029B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29DC3BC-6357-4EC5-AF19-35C9374029B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29DC3BC-6357-4EC5-AF19-35C9374029B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467D9712-F7AE-4DF4-9B56-6B25D755F920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467D9712-F7AE-4DF4-9B56-6B25D755F920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467D9712-F7AE-4DF4-9B56-6B25D755F920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467D9712-F7AE-4DF4-9B56-6B25D755F920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCFE8024-7782-4BD2-85E1-AA250D8DB3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFE8024-7782-4BD2-85E1-AA250D8DB3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFE8024-7782-4BD2-85E1-AA250D8DB3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFE8024-7782-4BD2-85E1-AA250D8DB3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
