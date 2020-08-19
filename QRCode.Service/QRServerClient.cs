@@ -49,7 +49,7 @@ namespace QRCode.Service
             catch (Exception e)
             {
                 //TODO: log error
-                return (OperationStatus.UnableToProcessImage, null);
+                return (OperationStatus.ExternalApiError, null);
             }
         }
     }

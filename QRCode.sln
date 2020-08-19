@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode.Bootstrap", "QRCode.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode.Common", "QRCode.Common\QRCode.Common.csproj", "{CCFE8024-7782-4BD2-85E1-AA250D8DB3F8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{09A6BF59-354F-40B3-8BFE-6519C2871C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode.Service.Tests", "Tests\QRCode.Service.Tests\QRCode.Service.Tests.csproj", "{9C744DB9-5DDA-4301-9849-0A8C181B77DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,12 @@ Global
 		{CCFE8024-7782-4BD2-85E1-AA250D8DB3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCFE8024-7782-4BD2-85E1-AA250D8DB3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCFE8024-7782-4BD2-85E1-AA250D8DB3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C744DB9-5DDA-4301-9849-0A8C181B77DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C744DB9-5DDA-4301-9849-0A8C181B77DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C744DB9-5DDA-4301-9849-0A8C181B77DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C744DB9-5DDA-4301-9849-0A8C181B77DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9C744DB9-5DDA-4301-9849-0A8C181B77DD} = {09A6BF59-354F-40B3-8BFE-6519C2871C1C}
 	EndGlobalSection
 EndGlobal

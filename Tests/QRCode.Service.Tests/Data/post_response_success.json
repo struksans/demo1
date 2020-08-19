@@ -1,0 +1,12 @@
+﻿[
+  {
+    "type": "qrcode",
+    "symbol": [
+      {
+        "seq": 0,
+        "data": "Content of the read QR code",
+        "error": null
+      }
+    ]
+  }
+]

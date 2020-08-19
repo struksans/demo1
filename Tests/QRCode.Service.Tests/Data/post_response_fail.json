@@ -1,0 +1,12 @@
+﻿[
+  {
+    "type": "qrcode",
+    "symbol": [
+      {
+        "seq": 0,
+        "data": null,
+        "error": "error description, e.g. \"download error (could not establish connection)\""
+      }
+    ]
+  }
+]
